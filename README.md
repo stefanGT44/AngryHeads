@@ -4,7 +4,7 @@
 ## Overview
 A simple 2D 1v1 online fighter game developed for pc and android with LibGDX and Kryonet for networking.<br>
 Players fight each other until one of them dies, or until the timer expires (the one with more HP wins).<br>
-Character art and all animations are original and inspired by the PS2 game I-Ninja.
+Character art and animations are all original and inspired by the PS2 game I-Ninja.
 
 ![Alt text](images/1.png?raw=true "")
 ![Alt text](images/2.png?raw=true "")
