@@ -6,7 +6,7 @@ A simple 2D 1v1 online platformer fighter game developed for pc and android with
 Players fight each other untill one of them dies, or untill the timer expires (the one with more HP wins).<br>
 Character art and all animations are original and inspired by the PS2 game I-Ninja.
 
-#### Details
+## Details
 There are two different characters with their own abilities and spells.<Br>
 They both have simple attacks and two additional spells with cooldowns.<br>
   
