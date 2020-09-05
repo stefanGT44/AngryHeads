@@ -3,7 +3,7 @@
 
 ## Overview
 A simple 2D 1v1 online platformer fighter game developed for pc and android with LibGDX and Kryonet for networking.<br>
-Players fight each other untill one of them dies, or untill the timer expires (the one with more HP wins).<br>
+Players fight each other until one of them dies, or until the timer expires (the one with more HP wins).<br>
 Character art and all animations are original and inspired by the PS2 game I-Ninja.
 
 ![Alt text](images/1.png?raw=true "")
@@ -15,7 +15,7 @@ There are two different characters with their own abilities and spells.<Br>
 They both have simple attacks and two additional spells with cooldowns.<br>
   
 #### The Ninja:
-An agile meele fighter with fast paced sword attacks and combos.<br>
+An agile melee fighter with fast paced sword attacks and combos.<br>
 * Simple attack - Sword strike (3 hit combo for jump attack)
 * Ability 1 - Jump
 * Ability 2 - Stealth for 3 seconds
@@ -23,7 +23,7 @@ An agile meele fighter with fast paced sword attacks and combos.<br>
 #### The Ranx Rocketman
 A slow shooter with high damaging energy bolts.
 * Simple attack - Shoot energy bolts
-* Ability 1 - Flying with jetpack untill fuel is empty (fuel slowly regenerates while not flying)
+* Ability 1 - Flying with jetpack until fuel is empty (fuel slowly regenerates while not flying)
 * Ability 2 - Immunity energy shield (Can't take damage and bounces enemies off for 5 seconds)
 
 ## Sidenote
