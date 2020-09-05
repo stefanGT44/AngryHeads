@@ -30,7 +30,6 @@ A slow shooter with high damaging energy bolts.
 This project was an assignment as part of the course - Mobile applications development during the 6th semester at the Faculty of Computer Science in Belgrade.
 
 ## Download
-You can download the .jar file [here](executables/Angry Heads.jar)<br>
 And the android .apk file [here](executables/android-debug.apk)<br>
 
 ## Contributors
